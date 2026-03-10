@@ -1,111 +1,119 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG84c296OWJyMDBhNGdweXFybDhua3V6bjNiZ3M1dW9pc2VpeWMybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
 </div>
-
-###
 
 <div align="center">
   <a href="mailto:ernesto.linares.toledo@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  
   <a href="https://wa.me/5356419775" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 </div>
 
-<h1 align="center">Hi I’m Ernesto 👋</h1>
+<h1 align="center">Hola, soy Ernesto 👋</h1>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 Sobre mí
 
-###
+Soy desarrollador con formación en **Ciencias de la Computación** y especializado en **WordPress development**.
 
-<p align="left">
-I'm from Cuba<br><br>
-- 🎓 I'm a Computer Science graduate.<br>
-- 🔭 I’m working as a WordPress specialist, handling updates, fixes, optimizations and custom developments.<br>
-- 📚 I'm currently learning React, Next.js, Tailwind CSS, TypeScript and modern WordPress/Headless development.<br>
-- ⚡ In my free time I work on my own app project, experiment with new tech, and build small tools to improve my development workflow.
-</p>
+- 🎓 Graduado en Ciencias de la Computación
+- 🔭 Trabajo como **WordPress Specialist** en **Informage**, realizando fixes, optimización, mantenimiento y desarrollo personalizado de sitios web
+- 📚 Actualmente aprendiendo **React, Next.js, Tailwind, TypeScript y WordPress Headless**
+- ⚡ Me gusta construir herramientas, experimentar con nuevas tecnologías y crear mis propios proyectos
 
-###
+---
 
-<h3 align="left">🤝 Soft Skills</h3>
+## 💻 Stack Principal
 
-###
+**Especializado en desarrollo web y WordPress**
 
-<p align="left">
-- Problem solving and analytical thinking<br>
-- Fast learning and adaptability<br>
-- Clean, organized, and maintainable code practices<br>
-- Strong debugging and troubleshooting skills<br>
-- Good communication with clients and teamwork<br>
-- Attention to detail and code quality
-</p>
+- WordPress Development
+- WooCommerce
+- PHP
+- JavaScript
+- HTML5 & CSS3
+- MySQL
+- Git
 
-###
+**Tecnologías que estoy aprendiendo**
 
-<h3 align="left">🛠 Languages and Tools</h3>
+- React
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Headless WordPress
 
-###
+---
+
+## ⭐ Proyectos Destacados
+
+### 🌳 Wood Wisdom Hub
+Aplicación web educativa sobre **tipos de madera y carpintería**.
+
+- Guía interactiva de maderas
+- Sistema de búsqueda
+- Información detallada de cada tipo de madera
+
+🔗 [Ver repositorio](https://github.com/Ernesto581/madera-viva)
+
+---
+
+### 🏠 Real Estate WordPress — Informage
+Trabajo profesional de personalización y desarrollo en proyectos inmobiliarios para **Informage**, incluyendo sitios creados desde cero y otros con modificaciones y mejoras.
+
+- Filtros avanzados de propiedades
+- Integración de feeds XML inmobiliarios
+- Optimización de mapas interactivos
+- Personalización de plantillas y temas WordPress
+- Creación de sitios desde cero y mantenimiento de sitios existentes
+
+---
+
+## 🤝 Habilidades Blandas
+
+- Resolución de problemas y pensamiento analítico
+- Aprendizaje rápido y adaptabilidad
+- Código limpio, organizado y mantenible
+- Buen debugging y troubleshooting
+- Comunicación con clientes y trabajo en equipo
+- Atención al detalle y calidad del código
+
+---
+
+## 🛠 Lenguajes y Herramientas
 
 <div align="left">
-  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-
-  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
   <img width="12" />
-
-  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
   <img width="12" />
-
-  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts logo" />
   <img width="12" />
-
-  <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
-
-  <!-- SQL (MySQL) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
   <img width="12" />
-
-  <!-- WordPress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
   <img width="12" />
-
-  <!-- WooCommerce -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo" />
   <img width="12" />
-
-  <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-
-  <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-
 </div>
 
-###
+<br/>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernesto581&layout=compact&theme=tokyonight"/>
