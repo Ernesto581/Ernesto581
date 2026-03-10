@@ -20,7 +20,7 @@
 Soy desarrollador con formación en **Ciencias de la Computación** y especializado en **WordPress development**.
 
 - 🎓 Graduado en Ciencias de la Computación
-- 🔭 Trabajo como **WordPress Specialist** en **Informage**, realizando fixes, optimización, mantenimiento y desarrollo personalizado de sitios web
+- 🔭 Trabajo como **WordPress Specialist**, realizando fixes, optimización, mantenimiento y desarrollo personalizado de sitios web
 - 📚 Actualmente aprendiendo **React, Next.js, Tailwind, TypeScript y WordPress Headless**
 - ⚡ Me gusta construir herramientas, experimentar con nuevas tecnologías y crear mis propios proyectos
 
@@ -61,14 +61,16 @@ Aplicación web educativa sobre **tipos de madera y carpintería**.
 
 ---
 
-### 🏠 Real Estate WordPress — Informage
-Trabajo profesional de personalización y desarrollo en proyectos inmobiliarios para **Informage**, incluyendo sitios creados desde cero y otros con modificaciones y mejoras.
+### 🏠 WordPress — Desarrollo Profesional
+Desarrollo y personalización de sitios WordPress de todo tipo: inmobiliarias, tiendas, corporativos, landing pages y más.
 
-- Filtros avanzados de propiedades
-- Integración de feeds XML inmobiliarios
-- Optimización de mapas interactivos
-- Personalización de plantillas y temas WordPress
-- Creación de sitios desde cero y mantenimiento de sitios existentes
+- Creación de sitios desde cero con **temas personalizados en PHP**
+- Desarrollo con **Elementor** y page builders
+- Integración de plugins de todo tipo
+- Personalización avanzada de temas y plantillas
+- Optimización de rendimiento y SEO
+- Integración de WooCommerce y pasarelas de pago
+- Feeds XML, mapas, filtros avanzados y funcionalidades a medida
 
 ---
 
