@@ -115,7 +115,3 @@ Desarrollo y personalización de sitios WordPress de todo tipo: inmobiliarias, t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 </div>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ernesto581&layout=compact&theme=tokyonight"/>
