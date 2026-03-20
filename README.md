@@ -48,19 +48,6 @@ Soy desarrollador con formación en **Ciencias de la Computación** y especializ
 
 ---
 
-## ⭐ Proyectos Destacados
-
-### 🌳 Wood Wisdom Hub
-Aplicación web educativa sobre **tipos de madera y carpintería**.
-
-- Guía interactiva de maderas
-- Sistema de búsqueda
-- Información detallada de cada tipo de madera
-
-🔗 [Ver repositorio](https://github.com/Ernesto581/madera-viva)
-
----
-
 ### 🏠 WordPress — Desarrollo Profesional
 Desarrollo y personalización de sitios WordPress de todo tipo: inmobiliarias, tiendas, corporativos, landing pages y más.
 
