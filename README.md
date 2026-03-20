@@ -61,7 +61,7 @@ Desarrollo y personalización de sitios WordPress de todo tipo: inmobiliarias, t
 
 ---
 
-## 🤝 Habilidades Blandas
+## 🤝 Habilidades
 
 - Resolución de problemas y pensamiento analítico
 - Aprendizaje rápido y adaptabilidad
