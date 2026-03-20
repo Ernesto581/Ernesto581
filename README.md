@@ -20,7 +20,7 @@
 Soy desarrollador con formación en **Ciencias de la Computación** y especializado en **WordPress development**.
 
 - 🎓 Graduado en Ciencias de la Computación
-- 🔭 Trabajo como **WordPress Specialist**, realizando fixes, optimización, mantenimiento y desarrollo personalizado de sitios web
+- 🔭 Trabajo como **WordPress Specialist** hace mas de 1 año, realizando fixes, optimización, mantenimiento y desarrollo personalizado de sitios web
 - 📚 Actualmente aprendiendo **React, Next.js, Tailwind, TypeScript y WordPress Headless**
 - ⚡ Me gusta construir herramientas, experimentar con nuevas tecnologías y crear mis propios proyectos
 
